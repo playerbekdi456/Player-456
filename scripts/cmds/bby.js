@@ -5,9 +5,9 @@ const baseApiUrl = async () => {
 
 module.exports.config = {
  name: "bby",
- aliases: ["baby", "bbe", "bot", "fahad", "babe"],
- version: "6.9.0",
- author: "Chitron Bhattacharjee",
+ aliases: ["baby", "bbe", "bot", "tanvir", "babe"],
+ version: "456",
+ author: "Tanvir islam Tamim",
  countDown: 0,
  role: 0,
  description: "better then all sim simi",
@@ -163,14 +163,13 @@ module.exports.onChat = async ({
  const arr = body.replace(/^\S+\s*/, "")
  const randomReplies = [
   "😏 Tui bollei mon gulo fuler moto fute uthe",
-  "😉 Ei raat e tumi aar ami... kichu ekta spicy hobe naki?",
+  "😉 Ei raat e tumi aar ami... cholo dujon dustu hoye jai?",
   "💋 Tor voice ta amar heart-er ringtone hote pare!",
   "😼 Dekhlei tor chokh e chemistry lage... physics nai?",
   "😇 Bujhlam, tui flirt kora sikhli amar theke!",
-  "🥀 Tui jodi chash hoye jash, ami tor ghum bhenge debo...",
-  "👀 Toke dekhe mon chay... daily dekhi!",
-  "🥺amake na deke amr boss ar inbox a nok deo my boss inbox m.me/rocky.top.video.editor",
-  "my owner inbox link m.me/Bangladesh.Top.Video.Editor.Rocky.Vai.320",
+  "🥀 tumi jodi amar Hoye jao, tahole ami onno karo hiye jabo..",
+  "👀 Toke dekhe mon chay... daily handle marte!",
+  "🥺 amake na deke amr boss er inbox a nok deo my boss inbox https://www.facebook.com/share/1WHWzFpP8f/",
 ];
  if (!arr) {
 
