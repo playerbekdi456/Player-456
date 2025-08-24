@@ -167,7 +167,7 @@ module.exports.onChat = async ({
   "💋 Tor voice ta amar heart-er ringtone hote pare!",
   "😼 Dekhlei tor chokh e chemistry lage... physics nai?",
   "😇 Bujhlam, tui flirt kora sikhli amar theke!",
-  "🥀 tumi jodi amar Hoye jao, tahole ami onno karo hiye jabo..",
+  "🥀 tumi jodi amar Hoye jao, tahole ami onno karo hoye jabo..",
   "👀 Toke dekhe mon chay... daily handle marte!",
   "🥺 amake na deke amr boss er inbox a nok deo my boss inbox https://www.facebook.com/share/1WHWzFpP8f/",
 ];
